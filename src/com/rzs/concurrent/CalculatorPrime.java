@@ -1,6 +1,6 @@
 package com.rzs.concurrent;
 
-public class CalculatorPrimes implements Runnable {
+public class CalculatorPrime implements Runnable {
 
     @Override
     public void run() {
